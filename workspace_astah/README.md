@@ -1,0 +1,1 @@
+• Este pasta é destinado ao Astah.
