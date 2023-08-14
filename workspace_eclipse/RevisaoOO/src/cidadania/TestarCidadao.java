@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import org.junit.jupiter.api.Test;
 
-class testarCidadao {
+class TestarCidadao {
 
 	@Test
 	void TestandoCidadao() {
