@@ -33,4 +33,41 @@ class ContaTest {
 		Double saldoEsperado = 1020.00;
 		assertEquals(saldoAtual, saldoEsperado);	
 	}
+	
+	@Test
+	void testPolimorfismo() {
+		
+		// Este flag define qual será a instância da Conta
+		boolean flagContaCorrenteComoDefault = false;
+		
+		Conta conta = null;
+		if(flagContaCorrenteComoDefault)
+		{
+			conta = new ContaCorrente();
+		} else {
+			conta = new ContaPoupanca();
+		}
+		
+		conta.depositar(1000.00);
+		
+		conta.rentabilizar();
+		
+		System.out.println("Polimorfismo");
+		System.out.println(conta.getClass().getName());
+		System.out.println(conta.saldo);
+		
+		
+	}
+	
+	@Test
+	void testConta_toString(){
+		
+		Conta conta = new ContaCorrente();
+		conta.depositar(100.00);
+		conta.sacar(10.00);
+		
+		String str = conta.toString();
+		
+		System.out.println(str);
+	}
 }
