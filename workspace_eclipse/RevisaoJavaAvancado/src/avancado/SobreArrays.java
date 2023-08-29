@@ -7,9 +7,9 @@ public class SobreArrays {
 		Animal [] arrayDeAnimais = new Animal[4];
 		
 		arrayDeAnimais[0] = new Animal(1L, "Tartaruga");
-		arrayDeAnimais[0] = new Animal(2L, "Coelho");
-		arrayDeAnimais[0] = new Animal(3L, "Cachorro");
-		arrayDeAnimais[0] = new Animal(4L, "Gato");
+		arrayDeAnimais[1] = new Animal(2L, "Coelho");
+		arrayDeAnimais[2] = new Animal(3L, "Cachorro");
+		arrayDeAnimais[3] = new Animal(4L, "Gato");
 		
 		System.out.println("Array de Animais: ");
 		
