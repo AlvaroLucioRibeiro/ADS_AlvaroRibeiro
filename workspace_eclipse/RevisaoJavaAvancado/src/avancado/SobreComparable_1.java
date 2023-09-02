@@ -4,7 +4,15 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Classe SobreComparable_1 que demonstra o uso da interface Comparable com Strings. Exercício: Ordenação.
+ */
 public class SobreComparable_1 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		List<String> listaDeAlimentos = new ArrayList<String>();
 		

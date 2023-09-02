@@ -3,7 +3,15 @@ package avancado;
 import java.util.*;
 import java.util.stream.Collectors;
 
+/**
+ * Classe SobreStreams que demonstra o uso básico de Streams em Java. Exercício: Stream.
+ */
 public class SobreStreams {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		List<Produto> produtos = new ArrayList<>();
 		

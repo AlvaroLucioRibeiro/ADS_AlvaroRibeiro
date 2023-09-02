@@ -6,7 +6,15 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+/**
+ * Classe SobreMap_1 que demonstra o uso básico de um mapa (Map) em Java. Exercício: Map.
+ */
 public class SobreMap_1 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
     public static void main(String[] args) {
         Animal a1 = new Animal(1L, "Tartaruga");
         Animal a2 = new Animal(2L, "Coelho");

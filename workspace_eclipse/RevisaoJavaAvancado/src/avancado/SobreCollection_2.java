@@ -3,8 +3,15 @@ package avancado;
 import java.util.ArrayList;
 import java.util.Collection;
 
+/**
+ * Classe SobreCollection_2 que demonstra operações mais avançadas com coleções em Java. Exercício: Collection.
+ */
 public class SobreCollection_2 {
-	
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		
 		// 1º
@@ -54,6 +61,10 @@ public class SobreCollection_2 {
 		imprimirStatusDaColecao(engenharias);
 	}
 	
+	 /**
+     * Método para imprimir o status da coleção.
+     * @param engenharias Coleção de engenharias.
+     */
 	private static void imprimirStatusDaColecao(Collection<String> engenharias)
 	{
 		if(engenharias.isEmpty())

@@ -4,7 +4,15 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Classe SobreComparator_1 que demonstra o uso da interface Comparator para ordenar objetos da classe Animal. Exercício: Ordenação.
+ */
 public class SobreComparator_1 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		
 		List<Animal> listaDeAnimais = new ArrayList<>();

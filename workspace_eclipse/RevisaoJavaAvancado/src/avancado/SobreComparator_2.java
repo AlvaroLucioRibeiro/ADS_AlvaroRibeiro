@@ -1,11 +1,18 @@
 package avancado;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * Classe SobreComparator_2 que demonstra diferentes maneiras de usar a interface Comparator com lambda. Exercício: Ordenação.
+ */
 public class SobreComparator_2 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		
 		List<Animal> listaDeAnimais = new ArrayList<>();

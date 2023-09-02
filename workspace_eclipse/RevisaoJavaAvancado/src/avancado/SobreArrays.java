@@ -1,7 +1,14 @@
 package avancado;
 
+/**
+ * Classe SobreArrays que contém um exemplo de uso de arrays de animais. Exercício: Array.
+ */
 public class SobreArrays {
-	
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		
 		Animal [] arrayDeAnimais = new Animal[4];

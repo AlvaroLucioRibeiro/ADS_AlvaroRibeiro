@@ -2,9 +2,16 @@ package avancado;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
+/**
+ * Classe SobreSet_3 que demonstra o uso de um conjunto (Set) de objetos da classe Animal. Exercício: Set.
+ */
 public class SobreSet_3 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		
 		Set<Animal> setDeAnimais = new HashSet<>();

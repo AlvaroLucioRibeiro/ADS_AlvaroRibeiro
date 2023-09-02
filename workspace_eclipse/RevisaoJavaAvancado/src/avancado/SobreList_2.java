@@ -3,7 +3,15 @@ package avancado;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Classe SobreList_2 que demonstra o uso de uma lista de objetos em Java. Exercício: List.
+ */
 public class SobreList_2 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		List<Animal> listaDeAnimais = new ArrayList<>();
 		

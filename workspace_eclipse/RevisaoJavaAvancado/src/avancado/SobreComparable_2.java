@@ -4,7 +4,15 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Classe SobreComparable_2 que demonstra o uso da interface Comparable com objetos da classe Animal. Exercício: Ordenação.
+ */
 public class SobreComparable_2 {
+
+    /**
+     * Método principal.
+     * @param args Argumentos da linha de comando.
+     */
 	public static void main(String[] args) {
 		List<Animal> listaDeAnimais = new ArrayList<>();
 		
