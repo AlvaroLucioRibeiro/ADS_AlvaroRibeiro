@@ -4,8 +4,14 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Classe de teste para as classes relacionadas à família. Exercício: Herança.
+ */
 class FamiliaTest {
 
+    /**
+     * Testa a impressão dos atributos das classes Pai, Filha e Neta.
+     */
 	@Test
 	public void imprimir() {
 		System.out.println("> Nome:");

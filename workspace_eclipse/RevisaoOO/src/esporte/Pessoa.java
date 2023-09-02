@@ -1,20 +1,35 @@
 package esporte;
 
-public class Pessoa extends Object {
-	
-	// Ctrl + 3: Digita as iniciais do código para ele gerar
-	
-	String nome;
-	
-	Integer idade;
+/**
+ * Classe Pessoa que contém atributos básicos. Exercício: Herança e Construtor.
+ */
+public class Pessoa {
 
-	public Pessoa(String nome, Integer idade) {
-		super();
-		this.nome = nome;
-		this.idade = idade;
-	}
-	
-	public void envelhecer() {
-		this.idade++;
-	}
+    /**
+     * Nome da pessoa.
+     */
+    String nome;
+
+    /**
+     * Idade da pessoa.
+     */
+    Integer idade;
+
+    /**
+     * Construtor da classe Pessoa.
+     * @param nome Nome da pessoa.
+     * @param idade Idade da pessoa.
+     */
+    public Pessoa(String nome, Integer idade) {
+        this.nome = nome;
+        this.idade = idade;
+    }
+
+    /**
+     * Método para envelhecer a pessoa.
+     */
+    public void envelhecer() {
+        this.idade++;
+    }
 }
+

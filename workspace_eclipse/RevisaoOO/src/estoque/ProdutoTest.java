@@ -7,8 +7,14 @@ import java.time.Month;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Classe de teste para a classe Produto. Exercício: Encapsulamento.
+ */
 class ProdutoTest {
 
+    /**
+     * Testa a funcionalidade do Produto como um JavaBean.
+     */
 	@Test
 	void testeProdutoComoJavaBean() {
 		

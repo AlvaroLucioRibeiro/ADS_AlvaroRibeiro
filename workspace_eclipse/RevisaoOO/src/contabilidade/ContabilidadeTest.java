@@ -4,8 +4,15 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Classe de teste para as classes que implementam a interface Tributavel.
+ */
+
 class ContabilidadeTest {
 
+    /**
+     * Testa a funcionalidade da classe EmpresaMEI.
+     */
 	@Test
 	void testEmpresaMEI() {
 		Double faturamentoMensal = 100.0;
@@ -19,6 +26,9 @@ class ContabilidadeTest {
 		assertEquals(27.5, empresaMEI.getValorIR());
 	}
 	
+	 /**
+     * Testa a funcionalidade da classe EmpresaSimples.
+     */
 	@Test
 	void testEmpresaSimples() {
 		Double faturamentoMensal = 100.0;

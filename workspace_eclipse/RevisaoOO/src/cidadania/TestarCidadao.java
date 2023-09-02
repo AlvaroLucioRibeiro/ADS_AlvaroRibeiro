@@ -4,8 +4,14 @@ import java.util.Scanner;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Classe de teste para as classes Pessoa e Cidadao. Exercício: Herança.
+ */
 class TestarCidadao {
 
+    /**
+     * Testa a funcionalidade da classe Cidadao.
+     */
 	@Test
 	void TestandoCidadao() {
         Scanner scanner = new Scanner(System.in);

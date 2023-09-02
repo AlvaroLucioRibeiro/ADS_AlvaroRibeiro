@@ -2,8 +2,14 @@ package esporte;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Classe de teste para as classes relacionadas a atletas e esportes.
+ */
 class AtletaTest {
 
+    /**
+     * Testa o construtor da classe Atleta.
+     */
 	@Test
 	void testarConstrutor() 
 	{
@@ -20,6 +26,9 @@ class AtletaTest {
 		System.out.println(atletaEdson.aposentado);
 	}
 	
+	/**
+     * Testa a funcionalidade da classe Nadador.
+     */
 	@Test
 	void testarNadador() {
 		Nadador nadador = new Nadador("Gustavo", 34, 90, false);

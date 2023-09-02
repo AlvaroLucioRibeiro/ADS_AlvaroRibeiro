@@ -4,8 +4,14 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Classe de teste para as classes Conta, ContaCorrente e ContaPoupanca. Exercício: Polimorfismo.
+ */
 class ContaTest {
 
+    /**
+     * Testa a funcionalidade da Conta Corrente.
+     */
 	@Test
 	void testaContaCorrente() {
 		Conta cc = new ContaCorrente();
@@ -20,6 +26,9 @@ class ContaTest {
 		assertEquals(saldoAtual, saldoEsperado);
 	}
 	
+	 /**
+     * Testa a funcionalidade da Conta Poupança.
+     */
 	@Test
 	void testContaPoupanca() {
 		Conta cp = new ContaPoupanca();
@@ -34,6 +43,9 @@ class ContaTest {
 		assertEquals(saldoAtual, saldoEsperado);	
 	}
 	
+	 /**
+     * Testa o polimorfismo entre ContaCorrente e ContaPoupanca.
+     */
 	@Test
 	void testPolimorfismo() {
 		
@@ -55,10 +67,11 @@ class ContaTest {
 		System.out.println("Polimorfismo");
 		System.out.println(conta.getClass().getName());
 		System.out.println(conta.saldo);
-		
-		
 	}
 	
+	/**
+     * Testa o método toString da classe Conta.
+     */
 	@Test
 	void testConta_toString(){
 		
