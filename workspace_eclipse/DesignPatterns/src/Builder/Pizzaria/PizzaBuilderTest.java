@@ -26,7 +26,7 @@ class PizzaBuilderTest {
 
 	/**
 	 * Testa a construção de uma Pizza com tamanho errado.
-	 * Apesar de definir o tamanho como 1, o teste espera que o tamanho seja 3.
+	 * Apesar de definir o tamanho como 4.
 	 * Este teste provavelmente foi criado para falhar e precisa ser revisado.
 	 */
 	@Test
@@ -39,4 +39,34 @@ class PizzaBuilderTest {
 			System.out.println("ok, Exception Esperado");
 		}
 	}
+	
+	/**
+	 * Testa a construção de uma Pizza com tamanho errado.
+	 */
+	@Test
+	public void dadosPizzaTamanhoInvalido_quandoGetPizza_entaoPizzaEhConstruida() {
+		Integer tamanhoInvalido = 4;
+		
+		assertThrows(IllegalStateException.class, () -> { 
+			Pizza pizzaPronta = new PizzaBuilder()
+					.addCheese()
+					.addPeperoni()
+					.defineSize(4)
+					.getPizza();
+		});
+	}
+	
+	/**
+	 * Testa a construção de uma Pizza sem ingrediente.
+	 */
+	@Test
+	public void dadosPizzaSemIngrediente_quandoGetPizza_entaoPizzaEhConstruida() {
+		assertThrows(IllegalStateException.class, () -> { 
+			Pizza pizzaPronta = new PizzaBuilder()
+					.defineSize(1)
+					.getPizza();
+		});
+	}
+	
+
 }
