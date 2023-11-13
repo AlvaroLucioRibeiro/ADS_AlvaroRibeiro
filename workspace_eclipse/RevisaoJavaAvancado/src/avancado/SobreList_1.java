@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreList_1 que demonstra o uso básico de uma lista em Java. Exercício: List.
  */
 public class SobreList_1 {

@@ -4,6 +4,9 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreStreams que demonstra o uso básico de Streams em Java. Exercício: Stream.
  */
 public class SobreStreams {

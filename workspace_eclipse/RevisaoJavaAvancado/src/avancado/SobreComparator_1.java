@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreComparator_1 que demonstra o uso da interface Comparator para ordenar objetos da classe Animal. Exercício: Ordenação.
  */
 public class SobreComparator_1 {

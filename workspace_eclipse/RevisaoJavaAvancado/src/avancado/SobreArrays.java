@@ -1,6 +1,9 @@
 package avancado;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreArrays que contém um exemplo de uso de arrays de animais. Exercício: Array.
  */
 public class SobreArrays {

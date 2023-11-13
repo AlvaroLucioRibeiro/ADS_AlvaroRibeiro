@@ -4,6 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreSet_3 que demonstra o uso de um conjunto (Set) de objetos da classe Animal. Exercício: Set.
  */
 public class SobreSet_3 {

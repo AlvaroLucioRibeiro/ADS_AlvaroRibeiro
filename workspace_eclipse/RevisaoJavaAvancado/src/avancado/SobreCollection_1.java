@@ -3,6 +3,9 @@ package avancado;
 import java.util.*;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreCollection_1 que demonstra o uso básico de uma coleção em Java. Exercício: Collection.
  */
 public class SobreCollection_1 {

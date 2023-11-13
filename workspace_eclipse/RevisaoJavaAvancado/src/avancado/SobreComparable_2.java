@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreComparable_2 que demonstra o uso da interface Comparable com objetos da classe Animal. Exercício: Ordenação.
  */
 public class SobreComparable_2 {

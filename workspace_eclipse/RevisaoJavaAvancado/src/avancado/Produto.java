@@ -1,6 +1,9 @@
 package avancado;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Produto que representa um produto com id, descrição e preço. Exercício: Stream.
  */
 public class Produto {

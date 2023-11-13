@@ -5,6 +5,9 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreComparator_2 que demonstra diferentes maneiras de usar a interface Comparator com lambda. Exercício: Ordenação.
  */
 public class SobreComparator_2 {

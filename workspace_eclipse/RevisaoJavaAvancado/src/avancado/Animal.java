@@ -2,6 +2,9 @@ package avancado;
 
 import java.util.Objects;
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Animal que implementa a interface Comparable. Exercício: Array.
  */
 public class Animal implements Comparable<Animal> {

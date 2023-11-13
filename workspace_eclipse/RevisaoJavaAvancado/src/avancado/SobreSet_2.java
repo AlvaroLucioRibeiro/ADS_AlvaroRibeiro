@@ -4,6 +4,9 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreSet_2 que demonstra o uso de um conjunto ordenado (TreeSet) em Java. Exercício: Set.
  */
 public class SobreSet_2 {

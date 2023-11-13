@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreCollection_2 que demonstra operações mais avançadas com coleções em Java. Exercício: Collection.
  */
 public class SobreCollection_2 {

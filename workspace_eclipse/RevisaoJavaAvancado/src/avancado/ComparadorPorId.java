@@ -3,6 +3,9 @@ package avancado;
 import java.util.Comparator;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ComparadorPorId que implementa a interface Comparator para comparar objetos da classe Animal pelo id. Exercício: Ordenação.
  */
 public class ComparadorPorId implements Comparator<Animal> {

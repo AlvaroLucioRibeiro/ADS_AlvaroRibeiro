@@ -7,6 +7,9 @@ import java.util.Map.Entry;
 import java.util.Set;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe SobreMap_1 que demonstra o uso básico de um mapa (Map) em Java. Exercício: Map.
  */
 public class SobreMap_1 {
