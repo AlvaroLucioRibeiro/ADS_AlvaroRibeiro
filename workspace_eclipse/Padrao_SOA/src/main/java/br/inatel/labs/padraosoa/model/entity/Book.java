@@ -3,6 +3,9 @@ package br.inatel.labs.padraosoa.model.entity;
 import java.util.Objects;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe de entidade que representa um livro.
  */
 public class Book {

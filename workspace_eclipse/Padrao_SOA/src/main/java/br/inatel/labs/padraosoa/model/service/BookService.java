@@ -11,6 +11,9 @@ import br.inatel.labs.padraosoa.model.entity.Book;
 import jakarta.annotation.PostConstruct;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Serviço para gerenciamento de livros.
  * Esta classe é responsável por realizar operações de negócio relacionadas a livros.
  */

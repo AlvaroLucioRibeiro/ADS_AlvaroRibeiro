@@ -18,6 +18,9 @@ import br.inatel.labs.padraosoa.model.entity.Book;
 import br.inatel.labs.padraosoa.model.service.BookService;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Controlador REST para gerenciar livros.
  * Este controlador fornece endpoints para operações CRUD básicas em um recurso de livro.
  */
