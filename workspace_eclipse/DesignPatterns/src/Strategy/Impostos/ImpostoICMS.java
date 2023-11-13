@@ -1,6 +1,9 @@
 package Strategy.Impostos;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ImpostoICMS.
  * Implementa a interface Tributavel para fornecer cálculos do imposto ICMS.
  */

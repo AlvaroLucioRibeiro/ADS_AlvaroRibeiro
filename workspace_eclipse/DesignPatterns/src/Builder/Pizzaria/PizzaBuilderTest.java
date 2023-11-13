@@ -5,7 +5,10 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 /**
-* Esta classe testa a funcionalidade da classe PizzaBuilder.
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
+ * Esta classe testa a funcionalidade da classe PizzaBuilder.
 */
 
 class PizzaBuilderTest {

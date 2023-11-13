@@ -6,6 +6,9 @@ import org.junit.jupiter.api.Test;
 
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe de teste para o LogManager.
  * Ela verifica o comportamento do padrão Singleton implementado no LogManager.
  */

@@ -1,6 +1,9 @@
 package Strategy.Frete;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Interface Fretavel.
  * Define um contrato para classes que implementam cálculos de frete.
  */

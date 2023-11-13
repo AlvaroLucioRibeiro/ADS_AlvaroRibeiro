@@ -1,6 +1,9 @@
 package Strategy.Impostos;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Interface Tributavel.
  * Define um contrato para cálculo de impostos.
  */

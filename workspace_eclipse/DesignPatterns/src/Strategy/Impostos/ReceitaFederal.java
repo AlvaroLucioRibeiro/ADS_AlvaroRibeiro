@@ -3,6 +3,9 @@ package Strategy.Impostos;
 import java.util.List;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ReceitaFederal.
  * Responsável por fornecer informações sobre os impostos vigentes.
  */

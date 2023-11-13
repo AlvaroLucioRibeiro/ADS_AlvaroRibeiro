@@ -1,6 +1,9 @@
 package Builder.Pizzaria;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Esta classe fornece um padrão de construção para criar um objeto Pizza.
  * Oferece métodos para adicionar coberturas e definir o tamanho de uma Pizza.
  */

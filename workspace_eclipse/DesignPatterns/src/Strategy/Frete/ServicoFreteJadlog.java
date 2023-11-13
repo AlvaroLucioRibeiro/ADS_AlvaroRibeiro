@@ -1,6 +1,9 @@
 package Strategy.Frete;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ServicoFreteJadlog.
  * Implementa a interface Fretavel para fornecer cálculos de frete específicos para o serviço Jadlog.
  */

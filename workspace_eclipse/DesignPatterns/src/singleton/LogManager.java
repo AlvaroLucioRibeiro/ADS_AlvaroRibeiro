@@ -1,6 +1,9 @@
 package singleton;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Representa um gerenciador de logs utilizando o padrão de projeto Singleton.
  */
 public class LogManager {

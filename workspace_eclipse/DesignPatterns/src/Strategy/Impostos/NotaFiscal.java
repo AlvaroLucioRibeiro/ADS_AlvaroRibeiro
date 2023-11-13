@@ -3,6 +3,9 @@ package Strategy.Impostos;
 import java.time.LocalDate;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe NotaFiscal.
  * Representa uma nota fiscal com suas principais informações.
  */

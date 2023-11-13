@@ -1,6 +1,9 @@
 package Builder.Pizzaria;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Esta classe representa um objeto Pizza.
  * Contém atributos relacionados ao tamanho e coberturas da pizza.
  */

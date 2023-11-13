@@ -1,6 +1,9 @@
 package Strategy.Frete;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe responsável por calcular o custo do frete usando uma estratégia de frete fornecida.
  */
 public class CalculadoraFrete {

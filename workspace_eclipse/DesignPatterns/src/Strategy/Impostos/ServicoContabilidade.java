@@ -3,6 +3,9 @@ package Strategy.Impostos;
 import java.util.List;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ServicoContabilidade.
  * Responsável por cálculos relacionados à contabilidade, como totalização de impostos.
  */
