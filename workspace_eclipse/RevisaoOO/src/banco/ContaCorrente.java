@@ -1,6 +1,9 @@
 package banco;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ContaCorrente que herda de Conta. Exercício: Polimorfimo.
  */
 class ContaCorrente extends Conta {

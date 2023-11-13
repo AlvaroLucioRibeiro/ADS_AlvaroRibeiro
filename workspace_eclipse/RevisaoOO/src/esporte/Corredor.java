@@ -1,6 +1,9 @@
 package esporte;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Corredor que herda de Atleta e implementa a ação de correr. Exercício: Herança e Construtor.
  */
 public class Corredor extends Atleta {

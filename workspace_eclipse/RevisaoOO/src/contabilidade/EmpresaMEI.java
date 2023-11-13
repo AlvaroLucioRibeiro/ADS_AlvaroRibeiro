@@ -1,6 +1,9 @@
 package contabilidade;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe EmpresaMEI que implementa a interface Tributavel para empresas MEI. Exercício: Interface.
  */
 public class EmpresaMEI implements Tributavel {

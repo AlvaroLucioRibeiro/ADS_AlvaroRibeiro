@@ -1,6 +1,9 @@
 package esporte;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Pessoa que contém atributos básicos. Exercício: Herança e Construtor.
  */
 public class Pessoa {

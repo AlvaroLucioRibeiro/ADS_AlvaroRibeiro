@@ -1,6 +1,9 @@
 package esporte;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Ciclista que herda de Atleta e implementa a ação de pedalar. Exercício: Herança e Construtor.
  */
 public class Ciclista extends Atleta {

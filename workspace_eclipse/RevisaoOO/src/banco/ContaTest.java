@@ -5,6 +5,9 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe de teste para as classes Conta, ContaCorrente e ContaPoupanca. Exercício: Polimorfismo.
  */
 class ContaTest {

@@ -1,6 +1,9 @@
 package banco;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe ContaPoupanca que herda de Conta. Exercício: Polimorfimo.
  */
 class ContaPoupanca extends Conta {

@@ -2,6 +2,9 @@ package estoque;
 
 import java.time.LocalDate;
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Produto que representa um produto em estoque. Exercício: Encapsulamento.
  */
 public class Produto {

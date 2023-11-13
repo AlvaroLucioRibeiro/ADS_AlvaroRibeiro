@@ -1,6 +1,9 @@
 package contabilidade;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe EmpresaSimples que implementa a interface Tributavel para empresas Simples. Exercício: Interface.
  */
 public class EmpresaSimples implements Tributavel {

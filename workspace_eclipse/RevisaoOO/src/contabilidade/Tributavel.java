@@ -1,6 +1,9 @@
 package contabilidade;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Interface Tributavel que define os métodos para cálculo de impostos. Exercício: Interface.
  */
 public interface Tributavel {

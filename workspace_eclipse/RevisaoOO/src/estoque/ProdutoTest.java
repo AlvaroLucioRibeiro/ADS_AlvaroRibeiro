@@ -8,6 +8,9 @@ import java.time.Month;
 import org.junit.jupiter.api.Test;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe de teste para a classe Produto. Exercício: Encapsulamento.
  */
 class ProdutoTest {

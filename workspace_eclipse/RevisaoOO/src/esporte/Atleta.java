@@ -1,6 +1,9 @@
 package esporte;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Atleta que herda de Pessoa e adiciona atributos específicos de um atleta. Exercício: Herança e Construtor.
  */
 public class Atleta extends Pessoa {

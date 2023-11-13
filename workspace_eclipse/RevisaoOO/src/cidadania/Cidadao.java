@@ -1,6 +1,9 @@
 package cidadania;
 
 /**
+ * Nome: Álvaro Lúcio Almeida Ribeiro
+ * Matrícula: 163
+ * Curso: Engenharia de Software
  * Classe Cidadao que herda de Pessoa e adiciona o atributo CPF. Exercício: Herança.
  */
 class Cidadao extends Pessoa {
