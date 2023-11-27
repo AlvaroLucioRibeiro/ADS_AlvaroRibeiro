@@ -1,0 +1,16 @@
+.notfound_container {
+  display: flex;
+  background-color: navy;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: start;
+  padding: 5vmax;
+  color: white;
+}
+
+.notfound_item {
+  background-color: navy;
+  padding: 5vmax;
+  text-align: center;
+}
