@@ -1,3 +1,19 @@
+# Ignore everything
 *
+
+# But not Java files
 !*.java
-!/src/
+
+# Ignore specific environments and tools
+*.ts
+*.html
+*.js
+*.map
+node_modules/
+dist/
+build/
+
+# Workspace and IDE settings (if not necessary)
+workspace_astah/
+workspace_eclipse/
+workspace_vscode/
