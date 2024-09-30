@@ -1,19 +1,35 @@
 # Ignore everything
 *
 
-# But not Java files
+# Do not ignore directories, we need to preserve the folder structure
+!*/
+
+# But do not ignore Java files
 !*.java
 
-# Ignore specific environments and tools
-*.ts
-*.html
-*.js
-*.map
-node_modules/
-dist/
-build/
+# Ignore common editor/IDE files (if needed)
+.vscode/
+.idea/
+*.iml
+*.class
+*.jar
+*.war
 
-# Workspace and IDE settings (if not necessary)
+# Ignore workspace configurations
 workspace_astah/
 workspace_eclipse/
 workspace_vscode/
+
+# Ignore node_modules (commonly used with TypeScript)
+node_modules/
+
+# Ignore build artifacts and output directories
+dist/
+build/
+
+# Ignore TypeScript and HTML files
+*.ts
+*.html
+*.js
+*.css
+*.map
